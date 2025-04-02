@@ -1,0 +1,135 @@
+.main{
+
+height: 400px;
+width: 800px;
+background-color: grey;
+background-image: url("./S_adobe_express.png");
+
+border: 10px groove black;
+
+}
+
+
+.fade{
+
+height: 400px;
+width: 800px;
+background-color: rgba(255, 254, 254, 0.9);
+color: white;
+
+}
+
+
+.fade2{
+
+background-image: url("https://i.pinimg.com/originals/91/bd/dc/91bddc0b13a4fd83161228489b8ad1af.png");
+filter: drop-shadow(0 0 0.75rem rgb(99, 1, 237));
+border: 5px groove black;
+border-radius: 50%;
+
+height: 400px;
+width: 300px;
+background-position:center;
+ background-size: cover;
+ margin-left: 500px;
+ position: absolute;
+ top: 1.8%;
+
+}
+
+.hii{
+
+color: black;
+font-size: 53px;
+display: inline;
+background-color: yellow;
+
+
+
+}
+
+.hii2{
+
+color: rgb(235, 11, 235);
+font-size: 30px;
+font-style: italic;
+
+}
+
+.hii3{
+
+color: rgb(12, 28, 247);
+font-size: 30px;
+font-style: italic;
+
+
+}
+
+.hii4{
+
+color: rgb(251, 145, 6);
+font-size: 30px;
+width: 60%;
+font-style: italic;
+
+}
+
+.hii5{
+
+color: rgb(236, 141, 16);
+font-size: 30px;
+margin-left: 35px;
+font-style: italic;
+
+}
+
+.hii6{
+
+color: black;
+font-size: 30px;
+
+
+
+}
+
+.hii7{
+
+    color: black;
+background-color: pink;
+font-size: 30px;
+display: inline;
+
+
+}
+
+.hii8{
+
+color: black;
+background-color: plum;
+font-size: 30px;
+display: inline;
+}
+
+.hii9{
+
+color: black;
+background-color: rosybrown;
+font-size: 30px;
+display: inline;
+}
+
+.hii10{
+
+color: black;
+background-color: mediumturquoise;
+font-size: 30px;
+display: inline;
+margin-left: 175px;
+
+}
+
+.owner{
+color: black;
+font-size: 20px  ;
+
+}
